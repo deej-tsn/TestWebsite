@@ -1,0 +1,47 @@
+h1 {
+    padding: 20px;
+    margin: 0;
+    text-align: center;
+}
+
+html, body{
+    margin: 0;
+    height: 100%;
+    font-family: Helvetica;
+}
+
+div {
+    margin: 0;
+    height: 100%;
+    font: bold;
+    color: aliceblue;
+    
+}
+
+.float-container {
+    width: auto;
+}
+
+.float-child {
+    
+    width: 50%;
+    float: left;
+}
+
+.colour1 {
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.colour2 {
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    text-align: center;
+}
