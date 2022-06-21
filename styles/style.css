@@ -28,7 +28,7 @@ div {
     float: left;
 }
 
-.colour1 {
+#colour1 {
     background-color: aqua;
     display: flex;
     justify-content: center;
@@ -37,7 +37,7 @@ div {
     text-align: center;
 }
 
-.colour2 {
+#colour2 {
     background-color: red;
     display: flex;
     justify-content: center;
